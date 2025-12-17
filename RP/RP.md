@@ -557,12 +557,16 @@ logiciel
 #### Comment protéger une oeuvre :
 Elle est protégé automatiquement à sa création
 
-#### Combien de temps une oeuvre/logiciel est protégé en générak
+#### Combien de temps une oeuvre/logiciel est protégé en général
 **oeuvres** :
 70 ans après la mort de son auteur 
 
 **logiciel** :
 50ans après le décès
+
+#### Creative Commons :
+
+Le Creative Commons est une organisation sur laquelle lorsqu'on partage une oeuvre tout les utilisateurs ont certains droits d'auteur sur celui-ci cependant ils ne peuvent pas en faire une utilisation commercial
 
 ## Conclusion
 
