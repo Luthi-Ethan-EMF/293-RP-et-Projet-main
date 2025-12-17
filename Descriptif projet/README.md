@@ -28,4 +28,4 @@ Questionnement et incertude :
 
 Je suis pas très sur de comment faire certain élément que je veux mettre dans mon site ainsi que comment je vais structuré tout cela.
 
-Pour étendre le site j'ajouterai des onglets pour parler d'encore plus de choses sur la ville ou meme parler des villes externe à celle-ci
+Pour étendre le site j'ajouterai des onglets pour parler d'encore plus de choses sur la ville ou meme parler des villes externe à celle-ci.
