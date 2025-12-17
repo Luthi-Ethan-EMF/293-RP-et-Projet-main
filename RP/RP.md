@@ -558,8 +558,10 @@ logiciel
 Elle est protégé automatiquement à sa création
 
 #### Combien de temps une oeuvre/logiciel est protégé en générak
+**oeuvres** :
 70 ans après la mort de son auteur 
 
+**logiciel** :
 50ans après le décès
 
 ## Conclusion
