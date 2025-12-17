@@ -512,12 +512,19 @@ En quoi elle consiste : établir des standards web pour garantir son accèssibli
 **membres** : 
 
 Adobe : car c'est connu
+
 Amazon : la même choses
+
 Discord : car c'est aussi connu
+
 Duck Duck GO : car c'est un naviguateur internet
+
 Google : naviguateur internet
+
 Mastercard : car c'est utilisé pour les cartes bancaire
+
 Meta : car c'est très connu
+
 Microsoft : car c'est connu et important de le mentionné
 
 
@@ -527,11 +534,43 @@ _validateur W3C_
 ### Protocole
 ### Serveur Web
 ### Outils de publication
+### Droit d'auteur
+#### Definiton
+c'est une protection sur les oeuvres/logiciel de quelqu'un
+
+#### élément protégé
+
+livre 
+
+peinture 
+
+chanson 
+
+image 
+
+films 
+
+photo 
+
+logiciel 
+
+#### Comment protéger une oeuvre :
+Elle est protégé automatiquement à sa création
+
+#### Combien de temps une oeuvre/logiciel est protégé en générak
+70 ans après la mort de son auteur 
+
+50ans après le décès
+
 ## Conclusion
 
 ## Lexique
 
 ## Source
+
+https://www.kmu.admin.ch/kmu/fr/home/savoir-pratique/gestion-pme/propriete-intellectuelle/marques-brevets-designs-droit-auteur%20/droit-auteur.html
+
+https://www.ige.ch/fr/propriete-intellectuelle/guide-pour-innovateurs-et-creatifs/le-droit-dauteur
 
 https://www.w3.org/standards/
 
